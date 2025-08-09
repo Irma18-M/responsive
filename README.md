@@ -5,7 +5,7 @@
 Aplicación web con diseño responsivo utilizando **React**, **TypeScript** y **Bootstrap**. El proyecto es completamente funcional en dispositivos móviles, tabletas y computadoras de escritorio, adaptando las tarjetas a 1, 2 y 3 columnas respectivamente.
 
 ## Despliegue
-- Enlace al sitio desplegado: [Ver app en vivo](https://tu-usuario.github.io/responsive-app)
+- Enlace al sitio desplegado: [Ver app en vivo](https://responsiv-app.netlify.app/)
 
 ## Enfoque en diseño responsivo
 El diseño responsivo se logró utilizando:
@@ -14,13 +14,13 @@ El diseño responsivo se logró utilizando:
 
 ## Capturas de pantalla
 ### Vista móvil
-![Vista móvil](https://github.com/Irma18-M/responsive-app/blob/main/assets/vista-movil.png)
+![Vista móvil](https://github.com/Irma18-M/responsive/blob/main/src/assets/vista-movil.png)
 
 ### Vista tablet
-![Vista tablet](https://github.com/Irma18-M/responsive-app/blob/main/assets/vista-tablet.png)
+![Vista tablet](https://github.com/Irma18-M/responsive/blob/main/src/assets/vista-tablet.png)
 
 ### Vista escritorio
-![Vista escritorio](https://github.com/Irma18-M/responsive-app/blob/main/assets/vista-compu.png)
+![Vista escritorio](https://github.com/Irma18-M/responsive/blob/main/src/assets/vista-compu.png)
 
 ## Tecnologías utilizadas
 - **React**
