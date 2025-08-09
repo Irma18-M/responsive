@@ -1,0 +1,25 @@
+/* Móviles (≤600px): 1 columna */
+@media (max-width: 600px) {
+  .card { 
+    width: 100% !important;  /* Que cada tarjeta ocupe toda la pantalla en móvil */
+    margin-bottom: 15px;     /* Espaciado entre tarjetas */
+  }
+}
+
+/* Tabletas (601px - 1024px): 2 columnas */
+@media (min-width: 601px) and (max-width: 1024px) {
+  .card {
+    width: 48% !important;  /* Dos columnas */
+    margin-right: 4%;       /* Espacio entre columnas */
+  }
+  .card:nth-child(2n) {
+    margin-right: 0;        /* Eliminar margen en la segunda columna */
+  }
+}
+
+/* Escritorio (>1024px): 3 columnas */
+@media (min-width: 1025px) {
+  .card { 
+    width: 30% !important;  /* Tres columnas */
+  }
+}
